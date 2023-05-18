@@ -12,18 +12,16 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: 
+Site published at: https://mistakeltu.github.io/05_18_404car/
 
 Design: [Car_404_design](https://dribbble.com/shots/15283175-Bruno-404)
 ## 🎯 Project features/goals
 
 -   Github pages
 -   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--   favicon
--   fixed-width content
--   `<header>`, `<footer>`
--   FontAwesome font/icons
--   HTML entities
+-   layout
+-   flexbox
+-   styles
 
 ## 🧰 Getting Started
 
