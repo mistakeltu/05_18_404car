@@ -1,20 +1,74 @@
-.container{
+body {
+    margin: 0;
+}
+
+.bg{
     display: flex;
-    background-color: grey;
-    width: 1000px;
-    height: 1000px;
-    justify-content: space-evenly;
+    justify-content: center;
+    background-color: #F7F7F9;
 }
 
 .left-column {
-    background-color: pink;
-    width: 200px;
-    height: 700px;
-    margin-top: 150px;
+    background-color: white;
+    width: 382px;
+    height: 823px;
+    margin: 239px 0 0 0;
+}
+
+.carinblack {
+    width: 250px;
+    height: 100px;
 }
 
 .right-column {
-    background-color: aqua;
-    width: 200px;
-    height: 400px;
+    display: flex;
+    background-color: #101010;
+    width: 383px;
+    height: 515px;
+    margin-left: 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.right {
+    display: flex;
+    flex-wrap: wrap;
+    width: 950px;
+
+}
+
+.right-column2 {
+    display: flex;
+    background-color: white;
+    width: 478px;
+    height: 515px;
+    margin-left: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom {
+    display: flex;
+    background-color: white;
+    width: 901px;
+    height: 507px;
+    margin: 40px 0 150px 40px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.carinwhite {
+    height: 200px;
+    width: 265px;
+}
+
+.bruno {
+    height: 100px;
+    width: 100px;
+}
+
+.fries {
+    width: 350px;
+    height: 380px;
 }
