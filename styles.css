@@ -53,8 +53,8 @@ body {
     width: 901px;
     height: 507px;
     margin: 40px 0 150px 40px;
-    justify-content: center;
-    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
 
 }
 
@@ -100,4 +100,13 @@ h2 {
 
 .main-h1, .main-h2 {
     color: white;
+}
+
+.fries-left {
+    height: 270px;
+    width: 250px;
+}
+
+.bruno-left {
+    margin-left: 270px;
 }
