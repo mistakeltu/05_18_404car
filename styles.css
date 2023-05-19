@@ -72,3 +72,32 @@ body {
     width: 320px;
     height: 360px;
 }
+
+.bottom-info {
+    width: 600px;
+    text-align: center;
+}
+
+h1 {
+    
+    font-size: 50px;
+    font-weight: 500;
+}
+
+p {
+    color: grey;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.right-column-info, .left-column-info {
+    text-align: center;
+}
+
+.main-h1, .main-h2 {
+    color: white;
+}
